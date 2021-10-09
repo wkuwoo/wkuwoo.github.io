@@ -102,7 +102,7 @@ analytics:
 # Site Author
 author:
   name             : "JinWoo Shin"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/wkuwoo.github.io/images/2021-10-08-profile.jpeg"
   bio              : "Systems Engineer"
   location         : "Somewhere"
   email            :
