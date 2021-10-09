@@ -105,7 +105,7 @@ author:
   avatar           : "/images/2021-10-08-profile.jpeg"
   bio              : "Systems Engineer"
   location         : "Somewhere"
-  email            :
+  email            : "wkuwoo@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
